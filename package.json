@@ -11,7 +11,9 @@
   },
   "author": "Nedim Akar (jack5341)",
   "license": "MIT",
-  "dependencies": {},
+  "dependencies": {
+    "terminal-kit": "^2.0.7"
+  },
   "devDependencies": {
     "babel-cli": "^6.26.0",
     "babel-preset-es2015": "^6.24.1",
